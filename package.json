@@ -1,0 +1,17 @@
+{
+  "name": "github-stargazer-cli",
+  "version": "1.0.0",
+  "description": "A simple utility that collates the details of users who have stared a GitHub repo.",
+  "main": "index.js",
+  "author": "Oli Gibson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oligibson/github-stargazer-cli"
+  },
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "license": "MIT"
+}
